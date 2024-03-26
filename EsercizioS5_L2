@@ -1,0 +1,12 @@
+Esercizio S5_L2
+
+Target:Nielsen Audience TV
+Di seguito riportate le query e le relative spiegazioni:
+
+<intitle:Nielsen> indica che i risultati della ricerca devono contenere la parola "Nielsen" nel titolo della pagina.
+
+<site:Nielsen.com>  viene utilizzata per limitare i risultati della ricerca a pagine web all'interno del dominio "Nielsen.com". Questo significa che i risultati della ricerca includeranno solo pagine web ospitate sul sito ufficiale di Nielsen.
+
+<phonebook:Nielsen.com> include pagine web contenenti numeri dell'azienda Nielsen
+
+<site:Nielsen.com -site:Nielsen.com> questa query viene utilizzato per limitare i risultati della ricerca a un sito web specifico. Quindi, la tua query sta cercando risultati su Nielsen.com e quindi li esclude immediatamente. In pratica, non restituisce nessun risultato.
